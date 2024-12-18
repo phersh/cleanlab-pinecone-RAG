@@ -1,0 +1,2 @@
+# cleanlab-pinecone-RAG
+Cleanlab_Pinecone_Reliable_Improved_RAG.ipynb
